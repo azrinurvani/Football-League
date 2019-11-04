@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Football League</string>
+
+<!--    <array name="league_image">-->
+<!--        <item>@mipmap/1_english_premier_league</item>-->
+<!--        <item>@mipmap/2_french_ligue_1</item>-->
+<!--        <item>@mipmap/3_german_bundesliga</item>-->
+<!--        <item>@mipmap/4_italian_serie_a</item>-->
+<!--        <item>@mipmap/5_spanish_la_liga</item>-->
+<!--        <item>@mipmap/6_american_mayor_league</item>-->
+<!--        <item>@mipmap/7_portugeuese_premiera_liga</item>-->
+<!--        <item>@mipmap/8_australian_a_league</item>-->
+<!--        <item>@mipmap/9_scotish_premier_league</item>-->
+<!--    </array>-->
+    
+    <array name="league_image">
+        <item>@mipmap/epl</item>
+        <item>@mipmap/league1</item>
+        <item>@mipmap/bundesliga</item>
+        <item>@mipmap/seriea</item>
+        <item>@mipmap/laliga</item>
+        <item>@mipmap/lion</item>
+        <item>@mipmap/mls</item>
+        <item>@mipmap/liga</item>
+        <item>@mipmap/efl</item>
+        <item>@mipmap/aleague</item>
+    </array>
+
+    <string-array name="league_name">
+        <item>EPL</item>
+        <item>League 1</item>
+        <item>Bundesliga</item>
+        <item>Serie A</item>
+        <item>La Liga</item>
+        <item>American Mayor League</item>
+        <item>Australian a League</item>
+        <item>Scotlish Premier League</item>
+        <item>EFL</item>
+        <item>A League</item>
+    </string-array>
+
+    <string-array name="league_desc">
+        <item>asbkfasjfbasjkbfj</item>
+        <item>jksdbkasjbf</item>
+        <item>aknsflkasfnl</item>
+        <item>alksnflkasn</item>
+        <item>askngfaskblg</item>
+        <item>asnflkasnfn</item>
+        <item>lkasnkfnalks</item>
+        <item>aklsnflkasklfn</item>
+        <item>aklsnflkasklfn</item>
+        <item>aklsnflkasklfn</item>
+
+    </string-array>
+</resources>
